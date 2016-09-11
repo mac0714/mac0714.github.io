@@ -1,0 +1,35 @@
+section {
+  color: green;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 400px;
+}
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 70px;
+  text-decoration: underline;
+}
+
+html {
+  background-color: yellow;
+}
+
+li {
+  color: black;
+  font-size: 20px;
+}
+li {
+  margin:10px
+}
+
+li a {
+  color: black;
+  font-size: 20;
+  }
+
+img {
+  float: right;
+  width: 60%;
+  margin-right: 200px;
+}
